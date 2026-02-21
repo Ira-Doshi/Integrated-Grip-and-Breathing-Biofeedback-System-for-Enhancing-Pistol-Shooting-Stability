@@ -1,1 +1,1 @@
-# Pistol-shooting-stability-testing-
+# Pistol-shooting-stability-testing
